@@ -1,6 +1,6 @@
 # DL4H-Project
  
-This codebase is for CS598 Deep Learning for Healthcare Project for the paper Deep recurrent model for individualized prediction of alzheimer’s disease progression by Wonsik Jung, Eunji Jun and Heung-Il Suk
+This codebase is for CS598 Deep Learning for Healthcare Project by Carlos Alves Pereira and Wael Mobeirek that makes use of the paper Deep recurrent model for individualized prediction of alzheimer’s disease progression by Wonsik Jung, Eunji Jun and Heung-Il Suk
 
 # Reference to Paper:
 
