@@ -29,7 +29,7 @@ python main.py --dataset='Zero' --data_path=PATH --kfold=5 --impute_weigh=0.1 --
 Replace path with path to pkl when running
 
 ## Jung_modified
-This folder contains our additional experiment. It uses their base code with our additions of demographic and genetic features. Their input requires a pkl file. Code to create this pkl file from the raw cvs file is provided in this folder in Zeros_Data_Processing_Jung.ipynb.
+This folder contains our additional experiment. It uses their base code with our additions of demographic and genetic features. Their input requires a pkl file. Code to create this pkl file from the raw csv file is provided in this folder in Zeros_Data_Processing_Jung.ipynb.
 ### Running files in this folder
 First file to be run is Zeros_Data_Processing_Jung.ipynb, which can be run through Juypter Notebooks. This will output a pkl file, which will be used as input to the model in the following command:  
 python main.py --dataset='Zero' --data_path=PATH --kfold=5 --impute_weigh=0.1 --reg_weight=0.5 --label_weight=0.5 --gamma=5.0 --cognitive_score=True  
