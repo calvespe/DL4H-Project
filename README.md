@@ -11,6 +11,12 @@ https://www.sciencedirect.com/science/article/pii/S1053811921004201?via%3Dihub
 
 Multiple parts of code reference original work at https://github.com/ssikjeong1/Deep_Recurrent_AD
 
+Dependencies
+
+* Python 3.6+
+* PyTorch 0.4.0+
+* TensorFlow 1.3+ 
+
 Folders and descriptions
 
 Jung_base: This folder contains their original code base for their model editted to work with input files created by our code. Their input requires a pkl file. Code to create this pkl file from the raw csv file is provided in this folder in Zeros_Data_Processing_Jung.ipynb.   
