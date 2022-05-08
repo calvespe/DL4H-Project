@@ -1,0 +1,16 @@
+---------------
+MODEL: model
+TRAINING PARAMETER
+Dataset: Zero
+Learning Rate : 0.005
+Weight Decay : 0.0001
+Batch Size : 64
+Hidden Size : 64
+Impute Weight: 0.1
+Reg Weight: 0.5
+Label Weight: 0.5
+gamma: 5.0
+---------------
+TRAINING LOG
+---------------
+FOLD 4
