@@ -17,6 +17,8 @@ Dependencies
 * PyTorch 0.4.0+
 * TensorFlow 1.3+ 
 
+All required python modules can be obtained through pip installs.
+
 Folders and descriptions
 
 Jung_base: This folder contains their original code base for their model editted to work with input files created by our code. Their input requires a pkl file. Code to create this pkl file from the raw csv file is provided in this folder in Zeros_Data_Processing_Jung.ipynb.   
