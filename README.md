@@ -3,6 +3,7 @@
 This codebase is for CS598 Deep Learning for Healthcare Project
 
 Reference to Paper:
+
 Wonsik Jung, Eunji Jun, Heung-Il Suk, Alzheimer’s Disease Neuroimaging Initiative, et al. 2021. Deep recurrent model for individualized prediction of alzheimer’s disease progression. NeuroImage, 237:118143.
 
 Link to Paper:
