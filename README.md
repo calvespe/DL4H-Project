@@ -41,3 +41,5 @@ This folder contains two data processing files, which are the .ipynb files that 
 Both .ipynb files can be run using jupyter notebooks. They output pkl files, which can be run by the .py files using the following commands:  
 python LSTM_cognitive_scores.py  
 python LSTM_diagnosis.py
+
+![alt text](https://github.com/calvespe/DL4H-Project/blob/master/Final%20Results.png)
