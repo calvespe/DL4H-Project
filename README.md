@@ -42,4 +42,5 @@ Both .ipynb files can be run using jupyter notebooks. They output pkl files, whi
 python LSTM_cognitive_scores.py  
 python LSTM_diagnosis.py
 
+# Table of Results
 ![alt text](https://github.com/calvespe/DL4H-Project/blob/master/Final%20Results.png)
