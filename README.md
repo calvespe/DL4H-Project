@@ -19,7 +19,7 @@ Multiple parts of code reference original work at https://github.com/ssikjeong1/
 
 All required python modules can be obtained through pip installs.
 
-# Folders and descriptions
+# Folders and descriptions of Preprocessing, Training and Evaluation Code
 
 ## Jung_base
 This folder contains their original code base for their model editted to work with input files created by our code. Their input requires a pkl file. Code to create this pkl file from the raw csv file is provided in this folder in Zeros_Data_Processing_Jung.ipynb.
